@@ -1,0 +1,7 @@
+#Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd  	Breytir um möppu	
+	cd ~	fara í rót 
+	ls  	List
+	pwd	sjá staðsetningu
+	mkdir 	Búa til möppu
